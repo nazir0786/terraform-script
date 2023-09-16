@@ -1,0 +1,6 @@
+install git on ubuntu server and configure
+install aws cli and configure
+install terrafom
+then run terraform init
+terraform plan
+terraform apply
